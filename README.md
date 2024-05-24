@@ -1,4 +1,4 @@
-### WebStorm IDE settings
+# WebStorm IDE settings
 
 Export file of my webStorm configuration.
 
